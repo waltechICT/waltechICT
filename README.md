@@ -1,23 +1,51 @@
-👋 Hi, I'm Walter Godson Nazike
+# Hi there 👋 I'm Walter Godson Nazike
 
-I am a passionate Software Engineer and Web Developer, and the founder of WALTECH ICT SERVICES AND CONSULTANT LTD.
+🚀 Software Engineer | Web Developer | Tech Entrepreneur  
+💼 Founder of WALTECH ICT SERVICES AND CONSULTANT LTD
 
-I specialize in building modern, scalable, and user-friendly web and software solutions that help businesses, schools, and organizations improve efficiency and grow through technology.
+---
 
-I focus on delivering clean, reliable, and performance-driven applications using modern development practices.
+## 👨‍💻 About Me
 
-## 💻 What I Do
-- Web Application Development
-- Software Solutions for Businesses & Schools
-- API Development & System Integration
-- Mobile-Ready Applications
+I am a passionate Software Engineer and Web Developer focused on building modern, scalable, and user-friendly digital solutions.
 
-## 🚀 Tech Stack
-Laravel | PHP | JavaScript | MySQL | Git | GitHub
+I specialize in creating:
+- 🌐 Modern websites & web applications  
+- 🧩 Business software solutions  
+- 🏫 School management systems  
+- 📊 Custom enterprise systems  
 
-## 🤝 Open To
-- Remote | Hybrid Jobs  
-- Freelance Projects
-- Long-term Collaborations  
+I am committed to helping businesses, schools, and organizations grow through technology.
 
-Let’s build something impactful together 🚀
+---
+
+## 📌 Current Focus
+
+- 🚀 Building scalable web applications
+- 🧠 Improving backend architecture skills
+- ☁️ Exploring cloud deployment (AWS / VPS)
+- 🤝 Open to collaborations & freelance projects
+
+---
+
+## 📂 Featured Projects
+
+-- comming soon
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 GitHub: https://github.com/waltechICT  
+- 🌐 Company: WALTECH ICT SERVICES AND CONSULTANT LTD  
+- 📧 Email: waltechictconsultant@gmail.com
+
+---
+
+## ⚡ Fun Quote
+
+> “Technology is best when it brings people together and solves real problems.”
+
+---
+
+⭐️ *Thanks for visiting my profile! Let's build something amazing together.*
