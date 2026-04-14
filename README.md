@@ -38,7 +38,7 @@ I am committed to helping businesses, schools, and organizations grow through te
 
 - 💼 GitHub: https://github.com/waltechICT  
 - 🌐 Company: WALTECH ICT SERVICES AND CONSULTANT LTD  
-- 📧 Email: waltechictconsultant@gmail.com
+- 📧 Email: waltechict@gmail.com
 
 ---
 
