@@ -1,29 +1,23 @@
-👋 Hi, I'm Walter Godson
+👋 Hi, I'm Walter Godson Nazike
 
-💻 Software Engineer | Full-Stack Web Developer  
-🚀 I build scalable web applications using Laravel, PHP, and JavaScript  
+I am a passionate Software Engineer and Web Developer, and the founder of WALTECH ICT SERVICES AND CONSULTANT LTD.
 
-I specialize in developing real-world systems like:
-- E-commerce platforms  
-- Business management systems  
-- RESTful APIs  
+I specialize in building modern, scalable, and user-friendly web and software solutions that help businesses, schools, and organizations improve efficiency and grow through technology.
 
-📍 Nigeria | 🌍 Available for Remote Work  
-📩 Open to freelance, contracts & full-time roles  
+I focus on delivering clean, reliable, and performance-driven applications using modern development practices.
 
-⭐ Check out my pinned projects below
+## 💻 What I Do
+- Web Application Development
+- Software Solutions for Businesses & Schools
+- API Development & System Integration
+- Mobile-Ready Applications
 
-<!--
-**waltechICT/waltechICT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+Laravel | PHP | JavaScript | MySQL | Git | GitHub
 
-Here are some ideas to get you started:
+## 🤝 Open To
+- Remote | Hybrid Jobs  
+- Freelance Projects
+- Long-term Collaborations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something impactful together 🚀
